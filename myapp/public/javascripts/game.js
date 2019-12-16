@@ -106,7 +106,7 @@ $(document).ready(function(){
 
     $("#finishedYes").click(function(){
         //window.open("Game.html", "_blank");
-        webSocket = new WebSocket("ws://localhost:3000/");
+        webSocket = new WebSocket("ws://localhost:3001/");
         
         webSocket.onopen = function(){
             var player1ID = generateRandomID();
