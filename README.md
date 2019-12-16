@@ -1,6 +1,6 @@
 # Battleship
 
-Battleship is a game created with Waqas Abbasi for the course "Web and Database technology".
+Battleship is a game created in collaboration with Waqas Abbasi for the course "Web and Database technology".
 
 ## Startup of the game
 
