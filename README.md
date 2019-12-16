@@ -22,15 +22,15 @@ NOTE !! The background image has to be fixed. Might be done later.
 
 ### Splash Screen
 
-![](../Battleship/photoREAD/start.png)
+![Alt Text](../Battleship/photoREAD/start.png)
 
 
 ### Set Up Screen
 
-![](../Battleship/photoREAD/setUp.png)
+![Alt Text](../Battleship/photoREAD/setUp.png)
 
-![](../Battleship/photoREAD/withShips.png)
+![Alt Text](../Battleship/photoREAD/withShips.png)
 
 ### Game Screen
 
-![](../Battleship/photoREAD/game.png)
+![Alt Text](../Battleship/photoREAD/game.png)
