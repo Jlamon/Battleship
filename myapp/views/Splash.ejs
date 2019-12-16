@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Battleships: Battle of the ships</title>
+        <link rel="stylesheet" href="stylesheets/stylesheet.css">
+        <script type="application/javascript" src="javascripts/jquery-3.3.1.min.js"></script>
+        <script type="application/javascript" src="javascripts/splash.js"></script>
+        <script type="application/javascript" src="javascripts/gameTemp.js"></script>
+        
+    </head>
+    <body id="splashHTML" background="https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-260085.png">
+        <div id="statusbar"><p>"Your Resolution is too low! Minimum supported is 1366 x 768</p></div>
+        <h1 id="splashTitle"> BATTLESHIPS </h1>
+        <div id="mainMenu">
+                </br>
+                </br>
+            <button id="multiplayer" class="splash_btn"> Play </button>
+                </br>
+                </br>
+            <button id="howToPlaySplash" class="splash_btn"> How to Play </button>
+                </br>
+                </br>
+        </div>       
+        <div id='statistics'>
+            <h2> <u><bold> Statistics </bold></u></h2>
+            <h2>Current Active Games : <%= activeGames %></h2>
+            <div id="timesPlayed">
+            <h2>Times You Have Played : 1</h2>
+            </div>
+            <h2 id="gamesWon">Games Won: 0</h2>
+            <h2 id="gamesLost">Games Lost: 0</h2>
+        </div>
+    </body>
+</html>
